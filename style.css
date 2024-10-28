@@ -415,7 +415,7 @@ form{
     height: 3.5rem;
     width: 23rem;
     background-color:var(--white-clr);
-    border-radius: rem;
+    border-radius: 2rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -453,7 +453,7 @@ input[type='email']{
     border: none;
     color: var(--soft-peach);
     font-size: 1rem;
-    border-radius: 5rem;
+    border-radius:5rem;
     padding: .2rem 1rem;
  
 }

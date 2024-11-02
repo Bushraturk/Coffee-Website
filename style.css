@@ -91,6 +91,14 @@ nav{
     font-size: 1rem;
     font-weight: 600;
 }
+.hero-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 9rem;
+    margin-right:80rem;
+
+}
 .hamburger{
     display: none;
     cursor: pointer;

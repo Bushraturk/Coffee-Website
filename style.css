@@ -148,15 +148,17 @@ transform: translateX(-50%);
 
 
 }
-.hero-content{
+.hero-content p{
     display: flex;
     justify-content: space-between;
-    /* background: gold; */
     align-items: center;
     padding-top: 9rem;
+    margin-right:80rem;
 
     
 }
+
+
 .social-link{
     justify-content: right;
     gap: 1rem;

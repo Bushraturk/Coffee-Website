@@ -148,7 +148,7 @@ transform: translateX(-50%);
 
 
 }
-.hero-content p{
+.hero-content{
     display: flex;
     justify-content: space-between;
     align-items: center;
